@@ -1,0 +1,17 @@
+---
+Created on: 2023-10-30
+tags: [work, programming]
+deck: Zettelkasten
+---
+
+# Natural programming language variables are not case-sensitive
+
+Case does not matter when referencing variables in [[zettelkasten/fleeting/work/structure/natural-programming-language]].
+
+## Related content
+
+- [YouTube](https://www.youtube.com/watch?v=DB1xbn3ys_c&list=PL3HwmrSYjxiMMdwFS8MmmG8XL_HI7plpB&index=2)
+
+## Flashcards
+
+For the _programming language Natural_, are variables **case-sensitive**? :: No.
